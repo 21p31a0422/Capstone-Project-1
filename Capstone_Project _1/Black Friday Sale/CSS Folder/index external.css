@@ -1,5 +1,8 @@
+*{
+	margin: 0px;
+}
 .maindiv{
-	height: 5000px;
+	height: 4360px;
 	width: 100%;
 }
 .div1{
@@ -413,5 +416,5 @@ i[class="fa-brands fa-square-twitter"]{
 	left: 506px;
 	color: whitesmoke;
 	text-align: center;
-	font-size: 30px;
+	font-size: 20px;
 }
